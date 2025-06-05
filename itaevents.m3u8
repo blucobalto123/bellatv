@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="http://clipart-library.com/images_k/spanish-flag-transparent/spanish-flag-transparent-14.png" group-title="Calcio", TF1 France
+#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Spain_vs_France.png" group-title="Calcio", TF1 France
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-469.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="http://clipart-library.com/images_k/spanish-flag-transparent/spanish-flag-transparent-14.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="UEFA Nations League - Spain vs France" tvg-name="21:00 UEFA Nations League : Spain vs France - 05/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Spain_vs_France.png" group-title="Calcio", SuperSport Premier League
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="WTA - ROLAND GARROS - Sabalenka A. vs Swiatek I." tvg-name="15:00 WTA - ROLAND GARROS : Sabalenka A. vs Swiatek I. - 05/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Sabalenka%20A._vs_Swiatek%20I..png" group-title="Tennis Wta - Roland Garros", Tennis Stream 16
@@ -302,7 +302,7 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="WNBA - New York Liberty vs Washington Mystics" tvg-name="01:30 WNBA : New York Liberty vs Washington Mystics - 05/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/New%20York%20Liberty_vs_Washington%20Mystics.png" group-title="Basket", Monumental Sports Network
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-778.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Phoenix Mercury" tvg-name="04:00 WNBA : Golden State Valkyries W vs Phoenix Mercury - 05/06/25" tvg-logo="https://images.seeklogo.com/logo-png/53/2/golden-state-valkyries-logo-png_seeklogo-534305.png" group-title="Basket", WNBA League Pass
+#EXTINF:-1 tvg-id="WNBA - Golden State Valkyries W vs Phoenix Mercury" tvg-name="04:00 WNBA : Golden State Valkyries W vs Phoenix Mercury - 05/06/25" tvg-logo="https://images.prismic.io/wnba/ZjVrS0MTzAJOCh36_gsv-logo-menu.png?auto=format,compress?auto=compress,format" group-title="Basket", WNBA League Pass
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-10.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="NBA - Indiana Pacers vs Oklahoma City Thunder" tvg-name="02:30 NBA : Indiana Pacers vs Oklahoma City Thunder - 05/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Indiana%20Pacers_vs_Oklahoma%20City%20Thunder.png" group-title="Basket", Home Feed

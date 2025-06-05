@@ -19,7 +19,7 @@ Pagina Evento: https://thisnot.business/player.php?id=SportCalcio_IT
 
 Pagina Evento: https://thisnot.business/player.php?id=Eurosport1RG
   Dettagli: Categoria='TENNIS', Evento='11:00 Live', Canale='Eurosport 1'
-  Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport1%29/manifest.mpd&key_id=46e559c2f9f645ce8d80c7fa20446bdb&key=597d214d66342ee042bccffeb165e750
+  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
 
 Pagina Evento: https://thisnot.business/player.php?id=Eurosport3RG
   Dettagli: Categoria='TENNIS', Evento='11:00 Live', Canale='Eurosport (Philippe-Chatrier)'
@@ -27,7 +27,7 @@ Pagina Evento: https://thisnot.business/player.php?id=Eurosport3RG
 
 Pagina Evento: https://thisnot.business/player.php?id=Eurosport4RG
   Dettagli: Categoria='TENNIS', Evento='11:00 Live', Canale='Eurosport (Suzanne Lenglen)'
-  Stato Estrazione: OK - Proxy generato: https://link.proxy.mpd/proxy/mpd/manifest.m3u8?d=https://timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28eurosport4%29/manifest.mpd&key_id=9dd7be79e44f4d08a91ec5d1553f17b8&key=8a62369f81a4b6e5f2d4846f7bd5e7d1
+  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
 
 Pagina Evento: https://thisnot.business/player.php?id=Eurosport2_IT
   Dettagli: Categoria='BASKET', Evento='20:45 Virtus Bologna v EA7 Milano (Gara 3)', Canale='Eurosport 2'
