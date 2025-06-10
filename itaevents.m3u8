@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/England_vs_Senegal.png" group-title="Calcio", Nova Sports Premier League Greece
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", Nova Sports Premier League Greece
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-599.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/England_vs_Senegal.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="Friendly - England vs Senegal" tvg-name="20:45 Friendly : England vs Senegal - 10/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1749549945_england-x-senegal.png" group-title="Calcio", SuperSport Premier League
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Bergs Z. vs Blockx A." tvg-name="11:00 ATP - HERTOGENBOSCH : Bergs Z. vs Blockx A. - 10/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Bergs%20Z._vs_Blockx%20A..png" group-title="Atp - Hertogenbosch", Tennis Stream 7
@@ -38,7 +38,7 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Wickmayer Y. vs Lamens S." tvg-name="11:00 WTA - HERTOGENBOSCH : Wickmayer Y. vs Lamens S. - 10/06/25" tvg-logo="https://cdn.sportstat.io/base/images/competitors/xKASso4bPVcV9cPCAhQxXdI7Ssqtu1Yyu5npXr02.png" group-title="Wta - Hertogenbosch", Tennis Stream 3
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Bolkvadze M. vs Alexandrova E." tvg-name="12:30 WTA - HERTOGENBOSCH : Bolkvadze M. vs Alexandrova E. - 10/06/25" tvg-logo="https://nb-bet.com/Images/tennis/5/15743727013871.png" group-title="Wta - Hertogenbosch", Tennis Stream 4
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Bolkvadze M. vs Alexandrova E." tvg-name="12:30 WTA - HERTOGENBOSCH : Bolkvadze M. vs Alexandrova E. - 10/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Bolkvadze%20M._vs_Alexandrova%20E..png" group-title="Wta - Hertogenbosch", Tennis Stream 4
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Garland J. vs Andreescu B." tvg-name="12:30 WTA - HERTOGENBOSCH : Garland J. vs Andreescu B. - 10/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Garland%20J._vs_Andreescu%20B..png" group-title="Wta - Hertogenbosch", Tennis Stream 3
@@ -50,7 +50,7 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Collins D. vs Minnen G." tvg-name="14:00 WTA - HERTOGENBOSCH : Collins D. vs Minnen G. - 10/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Collins%20D._vs_Minnen%20G..png" group-title="Wta - Hertogenbosch", Tennis Stream 3
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Samsonova L. vs Branstine C." tvg-name="14:00 WTA - HERTOGENBOSCH : Samsonova L. vs Branstine C. - 10/06/25" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d8c32970ed4467c0bbd212c/1574632970832-JQOH10BBFWWDWM4243PX/Samsonova-Consulting-Combination-Mark-Gradient-Gold-Large-2000px-header.png?format=1500w" group-title="Wta - Hertogenbosch", Tennis Stream 4
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Samsonova L. vs Branstine C." tvg-name="14:00 WTA - HERTOGENBOSCH : Samsonova L. vs Branstine C. - 10/06/25" tvg-logo="https://images.squarespace-cdn.com/content/v1/5d8c32970ed4467c0bbd212c/1574632970832-JQOH10BBFWWDWM4243PX/Samsonova-Consulting-Combination-Mark-Gradient-Gold-Large-2000px-header.png" group-title="Wta - Hertogenbosch", Tennis Stream 4
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Van den Broek I. L. vs Ruse G." tvg-name="15:30 WTA - HERTOGENBOSCH : Van den Broek I. L. vs Ruse G. - 10/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Van%20den%20Broek%20I.%20L._vs_Ruse%20G..png" group-title="Wta - Hertogenbosch", Tennis Stream 4
