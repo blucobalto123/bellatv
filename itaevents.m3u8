@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Popyrin A. vs Bergs Z." tvg-name="13:00 ATP - HERTOGENBOSCH : Popyrin A. vs Bergs Z. - 12/06/25" tvg-logo="https://pickdawgz.com/assets/themes/magtwo/images/elements/pickdawgz/logo-footer.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Popyrin A. vs Bergs Z." tvg-name="13:00 ATP - HERTOGENBOSCH : Popyrin A. vs Bergs Z. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Popyrin%20A._vs_Bergs%20Z..png" group-title="Atp - Hertogenbosch", Tennis Stream 7
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Medvedev D. vs Mannarino A." tvg-name="15:00 ATP - HERTOGENBOSCH : Medvedev D. vs Mannarino A. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Medvedev%20D._vs_Mannarino%20A..png" group-title="Atp - Hertogenbosch", Tennis Stream 7
@@ -8,19 +8,19 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Lajal M. vs Hurkacz H." tvg-name="16:00 ATP - HERTOGENBOSCH : Lajal M. vs Hurkacz H. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Lajal%20M._vs_Hurkacz%20H..png" group-title="Atp - Hertogenbosch", Tennis Stream 7
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - STUTTGART - Michelsen A. vs Engel J." tvg-name="11:00 ATP - STUTTGART : Michelsen A. vs Engel J. - 12/06/25" tvg-logo="https://www.langantiques.com/university/wp-content/uploads/2019/08/a_michelsen.png" group-title="Atp - Stuttgart", Tennis Stream 8
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Michelsen A. vs Engel J." tvg-name="11:00 ATP - STUTTGART : Michelsen A. vs Engel J. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Michelsen%20A._vs_Engel%20J..png" group-title="Atp - Stuttgart", Tennis Stream 8
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - STUTTGART - Mpetshi Perricard G. vs Auger-Aliassime F." tvg-name="12:30 ATP - STUTTGART : Mpetshi Perricard G. vs Auger-Aliassime F. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Mpetshi%20Perricard%20G._vs_Auger-Aliassime%20F..png" group-title="Atp - Stuttgart", Tennis Stream 8
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - STUTTGART - Zverev A. vs Moutet C." tvg-name="15:00 ATP - STUTTGART : Zverev A. vs Moutet C. - 12/06/25" tvg-logo="https://sportrenders.com/wp-content/uploads/2024/01/Zverev-PNG-Tennis-Render-Sport-Renders.png" group-title="Atp - Stuttgart", Tennis Stream 8
+#EXTINF:-1 tvg-id="ATP - STUTTGART - Zverev A. vs Moutet C." tvg-name="15:00 ATP - STUTTGART : Zverev A. vs Moutet C. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Zverev%20A._vs_Moutet%20C..png" group-title="Atp - Stuttgart", Tennis Stream 8
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - STUTTGART - Tien L. vs Nakashima B." tvg-name="17:00 ATP - STUTTGART : Tien L. vs Nakashima B. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Tien%20L._vs_Nakashima%20B..png" group-title="Atp - Stuttgart", Tennis Stream 8
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Lamens S. vs Li A." tvg-name="11:00 WTA - HERTOGENBOSCH : Lamens S. vs Li A. - 12/06/25" tvg-logo="https://laymansfitness.com/wp-content/uploads/2021/07/Logo-520x482.png" group-title="Wta - Hertogenbosch", Tennis Stream 5
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Lamens S. vs Li A." tvg-name="11:00 WTA - HERTOGENBOSCH : Lamens S. vs Li A. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Lamens%20S._vs_Li%20A..png" group-title="Wta - Hertogenbosch", Tennis Stream 5
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Branstine C. vs Ruse G." tvg-name="11:00 WTA - HERTOGENBOSCH : Branstine C. vs Ruse G. - 12/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Branstine%20C._vs_Ruse%20G..png" group-title="Wta - Hertogenbosch", Tennis Stream 4
@@ -185,10 +185,10 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="Lega A - Virtus Bologna vs Brescia" tvg-name="20:45 Lega A : Virtus Bologna vs Brescia - 12/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Virtus%20Bologna_vs_Brescia.png" group-title="Basket", Sport 3 Israel
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-142.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final (G5): Asvel vs Monaco" tvg-name="21:00 French League: Playoffs - 1/2 Final (G5): Asvel vs Monaco - 12/06/25" tvg-logo="https://asvel-feminin.fr/wp-content/uploads/2022/09/LOGO-ASVEL-VERT.png" group-title="Basket", DAZN1 France
+#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final (G5): Asvel vs Monaco" tvg-name="21:00 French League: Playoffs - 1/2 Final (G5): Asvel vs Monaco - 12/06/25" tvg-logo="https://s1.static-footeo.com/uploads/asvelfoot/logo__r2pzvp.png" group-title="Basket", DAZN1 France
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-15.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final (G5): Asvel vs Monaco" tvg-name="21:00 French League: Playoffs - 1/2 Final (G5): Asvel vs Monaco - 12/06/25" tvg-logo="https://asvel-feminin.fr/wp-content/uploads/2022/09/LOGO-ASVEL-VERT.png" group-title="Basket", Sport Klub 4 Croatia
+#EXTINF:-1 tvg-id="French League - Playoffs - 1/2 Final (G5): Asvel vs Monaco" tvg-name="21:00 French League: Playoffs - 1/2 Final (G5): Asvel vs Monaco - 12/06/25" tvg-logo="https://s1.static-footeo.com/uploads/asvelfoot/logo__r2pzvp.png" group-title="Basket", Sport Klub 4 Croatia
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-104.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ACB - Valencia vs Tenerife" tvg-name="21:15 ACB : Valencia vs Tenerife - 12/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Valencia_vs_Tenerife.png" group-title="Basket", M+ #Vamos Spain
