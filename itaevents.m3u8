@@ -38,7 +38,7 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Ruse G. vs Andreescu B." tvg-name="16:00 WTA - HERTOGENBOSCH : Ruse G. vs Andreescu B. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Ruse%20G._vs_Andreescu%20B..png" group-title="Wta - Hertogenbosch", Tennis Stream 4
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WTA - LONDON - Shnaider D. vs Keys M." tvg-name="13:00 WTA - LONDON : Shnaider D. vs Keys M. - 13/06/25" tvg-logo="https://companieslogo.com/img/orig/SCHNEIDER.NS-499a33a2.png?t=1604232067" group-title="Wta - London", Tennis Stream 1
+#EXTINF:-1 tvg-id="WTA - LONDON - Shnaider D. vs Keys M." tvg-name="13:00 WTA - LONDON : Shnaider D. vs Keys M. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Shnaider%20D._vs_Keys%20M..png" group-title="Wta - London", Tennis Stream 1
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="WTA - LONDON - Maria T. vs Rybakina E." tvg-name="14:30 WTA - LONDON : Maria T. vs Rybakina E. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Maria%20T._vs_Rybakina%20E..png" group-title="Wta - London", Tennis Stream 1
@@ -491,19 +491,19 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="Golden League Women - Sweden vs. Ukraine" tvg-name="19:00 Golden League Women : Sweden vs. Ukraine - 13/06/25" tvg-logo="https://www.cdacollaborative.org/wp-content/uploads/2015/11/Government-of-Sweden-Logo.png" group-title="Pallavolo", SVT 2 Sweden
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-5.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Golden League Women - Sweden vs. Ukraine" tvg-name="19:00 Golden League Women : Sweden vs. Ukraine - 13/06/25" tvg-logo="https://png.pngtree.com/png-clipart/20230104/original/pngtree-sweden-circle-flag-vector-png-image_8871946.png" group-title="Pallavolo", JOJ Sport Slovakia
+#EXTINF:-1 tvg-id="Golden League Women - Sweden vs. Ukraine" tvg-name="19:00 Golden League Women : Sweden vs. Ukraine - 13/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Sweden_vs_Ukraine.png" group-title="Pallavolo", JOJ Sport Slovakia
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-6.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="Golden League - Spain vs Croatia" tvg-name="19:30 Golden League : Spain vs Croatia - 13/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Spain_vs_Croatia.png" group-title="Pallavolo", Arena Sport 1 Croatia
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-432.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Golden League - Slovakia vs Portugal" tvg-name="22:00 Golden League : Slovakia vs Portugal - 13/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/060/non_2x/slovakia-3d-rounded-flag-with-transparent-background-free-png.png" group-title="Pallavolo", Sport TV1 Portugal
+#EXTINF:-1 tvg-id="Golden League - Slovakia vs Portugal" tvg-name="22:00 Golden League : Slovakia vs Portugal - 13/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/109/132/original/slovakia-flag-png.png" group-title="Pallavolo", Sport TV1 Portugal
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-49.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Golden League - Slovakia vs Portugal" tvg-name="22:00 Golden League : Slovakia vs Portugal - 13/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/060/non_2x/slovakia-3d-rounded-flag-with-transparent-background-free-png.png" group-title="Pallavolo", Arena Sport 1 Croatia
+#EXTINF:-1 tvg-id="Golden League - Slovakia vs Portugal" tvg-name="22:00 Golden League : Slovakia vs Portugal - 13/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/109/132/original/slovakia-flag-png.png" group-title="Pallavolo", Arena Sport 1 Croatia
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-432.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Golden League - Slovakia vs Portugal" tvg-name="22:00 Golden League : Slovakia vs Portugal - 13/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/060/non_2x/slovakia-3d-rounded-flag-with-transparent-background-free-png.png" group-title="Pallavolo", JOJ Sport Slovakia HD
+#EXTINF:-1 tvg-id="Golden League - Slovakia vs Portugal" tvg-name="22:00 Golden League : Slovakia vs Portugal - 13/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/109/132/original/slovakia-flag-png.png" group-title="Pallavolo", JOJ Sport Slovakia HD
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-6.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="Nations League - Ukraine vs Cuba" tvg-name="22:30 Nations League : Ukraine vs Cuba - 13/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Ukraine_vs_Cuba.png" group-title="Pallavolo", Polsat Sport 2 Poland
