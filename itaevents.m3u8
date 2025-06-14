@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Borges N. vs Humbert U." tvg-name="11:00 ATP - HERTOGENBOSCH : Borges N. vs Humbert U. - 13/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/borges-logo-black-and-white.png" group-title="Atp - Hertogenbosch", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Borges N. vs Humbert U." tvg-name="11:00 ATP - HERTOGENBOSCH : Borges N. vs Humbert U. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Borges%20N._vs_Humbert%20U..png" group-title="Atp - Hertogenbosch", Tennis Stream 7
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Diallo G. vs Khachanov K." tvg-name="12:30 ATP - HERTOGENBOSCH : Diallo G. vs Khachanov K. - 13/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Diallo%20G._vs_Khachanov%20K..png" group-title="Atp - Hertogenbosch", Tennis Stream 7
@@ -497,13 +497,13 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="Golden League - Spain vs Croatia" tvg-name="19:30 Golden League : Spain vs Croatia - 13/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Spain_vs_Croatia.png" group-title="Pallavolo", Arena Sport 1 Croatia
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-432.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Golden League - Slovakia vs Portugal" tvg-name="22:00 Golden League : Slovakia vs Portugal - 13/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/060/non_2x/slovakia-3d-rounded-flag-with-transparent-background-free-png.png" group-title="Pallavolo", Sport TV1 Portugal
+#EXTINF:-1 tvg-id="Golden League - Slovakia vs Portugal" tvg-name="22:00 Golden League : Slovakia vs Portugal - 13/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Slovakia_vs_Portugal.png" group-title="Pallavolo", Sport TV1 Portugal
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-49.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Golden League - Slovakia vs Portugal" tvg-name="22:00 Golden League : Slovakia vs Portugal - 13/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/060/non_2x/slovakia-3d-rounded-flag-with-transparent-background-free-png.png" group-title="Pallavolo", Arena Sport 1 Croatia
+#EXTINF:-1 tvg-id="Golden League - Slovakia vs Portugal" tvg-name="22:00 Golden League : Slovakia vs Portugal - 13/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Slovakia_vs_Portugal.png" group-title="Pallavolo", Arena Sport 1 Croatia
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-432.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Golden League - Slovakia vs Portugal" tvg-name="22:00 Golden League : Slovakia vs Portugal - 13/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/015/272/060/non_2x/slovakia-3d-rounded-flag-with-transparent-background-free-png.png" group-title="Pallavolo", JOJ Sport Slovakia HD
+#EXTINF:-1 tvg-id="Golden League - Slovakia vs Portugal" tvg-name="22:00 Golden League : Slovakia vs Portugal - 13/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Slovakia_vs_Portugal.png" group-title="Pallavolo", JOJ Sport Slovakia HD
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-6.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="Nations League - Ukraine vs Cuba" tvg-name="22:30 Nations League : Ukraine vs Cuba - 13/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Ukraine_vs_Cuba.png" group-title="Pallavolo", Polsat Sport 2 Poland
@@ -557,10 +557,10 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Al Ahly vs Inter Miami" tvg-name="02:00 FIFA Club World Cup : Al Ahly vs Inter Miami - 14/06/25" tvg-logo="http://www.thematv.com/medias/channels/al-ahly/al-ahly.png" group-title="Calcio", SuperSport Premier League
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Diallo G. vs Humbert U." tvg-name="14:30 ATP - HERTOGENBOSCH : Diallo G. vs Humbert U. - 14/06/25" tvg-logo="https://insightnewsgh.com/wp-content/uploads/2024/08/Gabriel-Diallo_2023-08-06-162139_irqd.png" group-title="Tennis Atp - Hertogenbosch", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Diallo G. vs Humbert U." tvg-name="14:30 ATP - HERTOGENBOSCH : Diallo G. vs Humbert U. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Diallo%20G._vs_Humbert%20U..png" group-title="Tennis Atp - Hertogenbosch", Tennis Stream
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Diallo G. vs Humbert U." tvg-name="14:30 ATP - HERTOGENBOSCH : Diallo G. vs Humbert U. - 14/06/25" tvg-logo="https://insightnewsgh.com/wp-content/uploads/2024/08/Gabriel-Diallo_2023-08-06-162139_irqd.png" group-title="Tennis Atp - Hertogenbosch", Tennis Stream
+#EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Diallo G. vs Humbert U." tvg-name="14:30 ATP - HERTOGENBOSCH : Diallo G. vs Humbert U. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Diallo%20G._vs_Humbert%20U..png" group-title="Tennis Atp - Hertogenbosch", Tennis Stream
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - HERTOGENBOSCH - Opelka R. vs Bergs Z." tvg-name="16:00 ATP - HERTOGENBOSCH : Opelka R. vs Bergs Z. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Opelka%20R._vs_Bergs%20Z..png" group-title="Tennis Atp - Hertogenbosch", Tennis Stream
@@ -584,16 +584,16 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Mertens E. vs Alexandrova E." tvg-name="11:00 WTA - HERTOGENBOSCH : Mertens E. vs Alexandrova E. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Mertens%20E._vs_Alexandrova%20E..png" group-title="Tennis Wta - Hertogenbosch", Tennis Stream
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Ruse G. vs Cocciaretto E." tvg-name="12:30 WTA - HERTOGENBOSCH : Ruse G. vs Cocciaretto E. - 14/06/25" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMxf3ThYd6pY79xZCbNZPQvCWGpOFagUnt9IkwK18KFAgzXlJu22cSWLSdV0ZkuBNMqhJDuEQw5eIr4IJUesFhDCG0YjbbQWYcD4BhLX7Jv7aZogh52X3IfhcgDH4ueqDKzyPKHihxLCc/s1600/1657113085649353-0.png" group-title="Tennis Wta - Hertogenbosch", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - HERTOGENBOSCH - Ruse G. vs Cocciaretto E." tvg-name="12:30 WTA - HERTOGENBOSCH : Ruse G. vs Cocciaretto E. - 14/06/25" tvg-logo="https://ruse.games/wp-content/uploads/2023/11/Ruses.Games-Logo_ScreauWht-1024x1024.png" group-title="Tennis Wta - Hertogenbosch", Tennis Stream
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WTA - LONDON - Maria T. vs Keys M." tvg-name="14:30 WTA - LONDON : Maria T. vs Keys M. - 14/06/25" tvg-logo="https://fundacionhoneybeeimpact.org/wp-content/uploads/2023/11/MARIA-T-HEXAGONO-2-1.png" group-title="Tennis Wta - London", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - LONDON - Maria T. vs Keys M." tvg-name="14:30 WTA - LONDON : Maria T. vs Keys M. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Maria%20T._vs_Keys%20M..png" group-title="Tennis Wta - London", Tennis Stream
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WTA - LONDON - Maria T. vs Keys M." tvg-name="14:30 WTA - LONDON : Maria T. vs Keys M. - 14/06/25" tvg-logo="https://fundacionhoneybeeimpact.org/wp-content/uploads/2023/11/MARIA-T-HEXAGONO-2-1.png" group-title="Tennis Wta - London", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - LONDON - Maria T. vs Keys M." tvg-name="14:30 WTA - LONDON : Maria T. vs Keys M. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Maria%20T._vs_Keys%20M..png" group-title="Tennis Wta - London", Tennis Stream
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WTA - LONDON - Maria T. vs Keys M." tvg-name="14:30 WTA - LONDON : Maria T. vs Keys M. - 14/06/25" tvg-logo="https://fundacionhoneybeeimpact.org/wp-content/uploads/2023/11/MARIA-T-HEXAGONO-2-1.png" group-title="Tennis Wta - London", Tennis Stream
+#EXTINF:-1 tvg-id="WTA - LONDON - Maria T. vs Keys M." tvg-name="14:30 WTA - LONDON : Maria T. vs Keys M. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Maria%20T._vs_Keys%20M..png" group-title="Tennis Wta - London", Tennis Stream
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="WTA - LONDON - Zheng Q. vs Anisimova A." tvg-name="16:00 WTA - LONDON : Zheng Q. vs Anisimova A. - 14/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Zheng%20Q._vs_Anisimova%20A..png" group-title="Tennis Wta - London", Tennis Stream
@@ -1013,16 +1013,16 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://i.pinimg.com/originals/a5/35/27/a53527335fb122ce04b0a388cea7d560.png" group-title="Basket", Cosmote Sport 5 Greece
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-626.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://clipartcraft.com/images/wnba-logo-small-6.png" group-title="Basket", TV4 Sportkanalen
+#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://i.pinimg.com/originals/a5/35/27/a53527335fb122ce04b0a388cea7d560.png" group-title="Basket", TV4 Sportkanalen
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-707.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://i.pinimg.com/originals/a5/35/27/a53527335fb122ce04b0a388cea7d560.png" group-title="Basket", Cosmote Sport 5 HD
+#EXTINF:-1 tvg-id="WNBA - Minnesota Lynx vs. Los Angeles Sparks" tvg-name="19:00 WNBA : Minnesota Lynx vs. Los Angeles Sparks - 14/06/25" tvg-logo="https://clipartcraft.com/images/wnba-logo-svg-6.png" group-title="Basket", Cosmote Sport 5 HD
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-626.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="FIBA Men's 3X3 Basketball World Tour - DAY 1 - Afternoon vs Vienna" tvg-name="19:05 FIBA Men's 3X3 Basketball World Tour: DAY 1 - Afternoon vs Vienna - 14/06/25" tvg-logo="https://www.hbbtv.org/wp-content/uploads/2018/11/14-Nov-18-afternoon-1-300x300.png" group-title="Basket", Sport 5 Stars Israel
+#EXTINF:-1 tvg-id="FIBA Men's 3X3 Basketball World Tour - DAY 1 - Afternoon vs Vienna" tvg-name="19:05 FIBA Men's 3X3 Basketball World Tour: DAY 1 - Afternoon vs Vienna - 14/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/DAY%201%20-%20Afternoon_vs_Vienna.png" group-title="Basket", Sport 5 Stars Israel
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-147.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Polish Basketball League - Legia vs Lublin" tvg-name="19:50 Polish Basketball League : Legia vs Lublin - 14/06/25" tvg-logo="https://clipart.info/images/ccovers/1503438187legia-warszawa-logo-png.png" group-title="Basket", Polsat Sport 1 Poland
+#EXTINF:-1 tvg-id="Polish Basketball League - Legia vs Lublin" tvg-name="19:50 Polish Basketball League : Legia vs Lublin - 14/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Legia_vs_Lublin.png" group-title="Basket", Polsat Sport 1 Poland
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="KLS - Crvena Zvezda Meridianbet vs Spartak Office Shoes, G1" tvg-name="20:00 KLS : Crvena Zvezda Meridianbet vs Spartak Office Shoes, G1 - 14/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Crvena%20Zvezda%20Meridianbet_vs_Spartak%20Office%20Shoes%2C%20G1.png" group-title="Basket", Arena 1 Premium Serbia
@@ -1190,7 +1190,7 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="Golden League - Israel vs Slovakia" tvg-name="18:00 Golden League : Israel vs Slovakia - 14/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Israel_vs_Slovakia.png" group-title="Pallavolo", Sport 3 Israel
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-142.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Golden League - Romania vs Spain" tvg-name="19:30 Golden League : Romania vs Spain - 14/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/328/515/non_2x/romania-flat-rounded-flag-icon-with-transparent-background-free-png.png" group-title="Pallavolo", Arena Sport 2 Croatia
+#EXTINF:-1 tvg-id="Golden League - Romania vs Spain" tvg-name="19:30 Golden League : Romania vs Spain - 14/06/25" tvg-logo="https://static.vecteezy.com/system/resources/previews/016/328/515/large_2x/romania-flat-rounded-flag-icon-with-transparent-background-free-png.png" group-title="Pallavolo", Arena Sport 2 Croatia
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-433.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="Golden League W - Spain W vs Greece W" tvg-name="17:00 Golden League W : Spain W vs Greece W - 14/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Spain%20W_vs_Greece%20W.png" group-title="Pallavolo", Arena Sport 3 Croatia (CH-434) Sportklub 3 Croatia
