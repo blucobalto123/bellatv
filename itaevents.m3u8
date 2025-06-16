@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Chelsea vs Los Angeles FC" tvg-name="21:00 FIFA Club World Cup : Chelsea vs Los Angeles FC - 16/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Chelsea_vs_Los%20Angeles%20FC.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Chelsea vs Los Angeles FC" tvg-name="21:00 FIFA Club World Cup : Chelsea vs Los Angeles FC - 16/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750074234_chelsea-x-los-angeles-fc.jpeg" group-title="Calcio", SuperSport Premier League
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Boca Juniors vs Benfica" tvg-name="00:00 FIFA Club World Cup : Boca Juniors vs Benfica - 16/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Boca%20Juniors_vs_Benfica.png" group-title="Calcio", SuperSport Premier League
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Brazil - Serie B - Chapecoense vs Ferroviária" tvg-name="00:00 Brazil - Serie B : Chapecoense vs Ferroviária - 16/06/25" tvg-logo="https://logodetimes.com/times/chapecoense/logo-chapecoense-4096.png" group-title="Calcio", ESPN Brazil
+#EXTINF:-1 tvg-id="Brazil - Serie B - Chapecoense vs Ferroviária" tvg-name="00:00 Brazil - Serie B : Chapecoense vs Ferroviária - 16/06/25" tvg-logo="https://www.footballkitarchive.com/static/logos/X4tZmIvMydla9sB/chapecoense-1973-1978-logo.png" group-title="Calcio", ESPN Brazil
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-81.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs ES Tunis" tvg-name="03:00 FIFA Club World Cup : Flamengo vs ES Tunis - 16/06/25" tvg-logo="https://logodetimes.com/times/flamengo/logo-flamengo-4096.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Flamengo vs ES Tunis" tvg-name="03:00 FIFA Club World Cup : Flamengo vs ES Tunis - 16/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Flamengo_vs_ES%20Tunis.png" group-title="Calcio", SuperSport Premier League
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - LONDON - Tiafoe F. vs Evans D." tvg-name="13:00 ATP - LONDON : Tiafoe F. vs Evans D. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Tiafoe%20F._vs_Evans%20D..png" group-title="Tennis Atp - London", Tennis Stream 7
@@ -20,7 +20,7 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="ATP - LONDON - Rune H. vs Arnaldi M." tvg-name="14:30 ATP - LONDON : Rune H. vs Arnaldi M. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Rune%20H._vs_Arnaldi%20M..png" group-title="Tennis Atp - London", Tennis Stream 7
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - LONDON - Norrie C. vs Mensik J." tvg-name="16:00 ATP - LONDON : Norrie C. vs Mensik J. - 16/06/25" tvg-logo="https://resources.beecrowd.com/gallery/images/judge/login/04-min.png" group-title="Tennis Atp - London", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - LONDON - Norrie C. vs Mensik J." tvg-name="16:00 ATP - LONDON : Norrie C. vs Mensik J. - 16/06/25" tvg-logo="https://www.atptour.com/-/media/tennis/players/head-shot/2022/06/07/13/24/norrie-head-2022-may.png" group-title="Tennis Atp - London", Tennis Stream 7
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - LONDON - Fearnley J. vs Bolt A." tvg-name="17:30 ATP - LONDON : Fearnley J. vs Bolt A. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Fearnley%20J._vs_Bolt%20A..png" group-title="Tennis Atp - London", Tennis Stream 7
@@ -35,7 +35,7 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="ATP - HALLE - Altmaier D. vs Medvedev D." tvg-name="13:00 ATP - HALLE : Altmaier D. vs Medvedev D. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Altmaier%20D._vs_Medvedev%20D..png" group-title="Tennis Atp - Halle", Tennis Stream 11
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - HALLE - Muller A. vs Bublik A." tvg-name="14:30 ATP - HALLE : Muller A. vs Bublik A. - 16/06/25" tvg-logo="https://images.seeklogo.com/logo-png/32/2/muller-drogerie-logo-png_seeklogo-327982.png?v=1957912786122421720" group-title="Tennis Atp - Halle", Tennis Stream 11
+#EXTINF:-1 tvg-id="ATP - HALLE - Muller A. vs Bublik A." tvg-name="14:30 ATP - HALLE : Muller A. vs Bublik A. - 16/06/25" tvg-logo="https://logodix.com/logo/2013085.png" group-title="Tennis Atp - Halle", Tennis Stream 11
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - HALLE - Tsitsipas S. vs Darderi L." tvg-name="16:00 ATP - HALLE : Tsitsipas S. vs Darderi L. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Tsitsipas%20S._vs_Darderi%20L..png" group-title="Tennis Atp - Halle", Tennis Stream 11
@@ -53,7 +53,7 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="WTA - BERLIN - Dolehide C. vs Jabeur O." tvg-name="13:00 WTA - BERLIN : Dolehide C. vs Jabeur O. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Dolehide%20C._vs_Jabeur%20O..png" group-title="Tennis Wta - Berlin", Tennis Stream 1
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WTA - BERLIN - Kenin S. vs Masarova R." tvg-name="14:30 WTA - BERLIN : Kenin S. vs Masarova R. - 16/06/25" tvg-logo="https://resources.beecrowd.com/gallery/images/judge/login/04-min.png" group-title="Tennis Wta - Berlin", Tennis Stream 2
+#EXTINF:-1 tvg-id="WTA - BERLIN - Kenin S. vs Masarova R." tvg-name="14:30 WTA - BERLIN : Kenin S. vs Masarova R. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Kenin%20S._vs_Masarova%20R..png" group-title="Tennis Wta - Berlin", Tennis Stream 2
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="WTA - BERLIN - Andreeva M. vs Frech M." tvg-name="16:00 WTA - BERLIN : Andreeva M. vs Frech M. - 16/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Andreeva%20M._vs_Frech%20M..png" group-title="Tennis Wta - Berlin", Tennis Stream 1
@@ -176,25 +176,25 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="Poland PLK - Legia Warszawa vs. MKS Start Lublin" tvg-name="19:50 Poland PLK : Legia Warszawa vs. MKS Start Lublin - 16/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Legia%20Warszawa_vs_MKS%20Start%20Lublin.png" group-title="Basket", Polsat Sport 1 Poland
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-47.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ACB - Tenerife vs Valencia" tvg-name="21:15 ACB : Tenerife vs Valencia - 16/06/25" tvg-logo="https://freevectorlogo.net/wp-content/uploads/2012/12/tenerife-logo-vector-400x400.png" group-title="Basket", Movistar Deportes Spain
+#EXTINF:-1 tvg-id="ACB - Tenerife vs Valencia" tvg-name="21:15 ACB : Tenerife vs Valencia - 16/06/25" tvg-logo="https://hablemosdeislas.com/wp-content/uploads/2018/06/tenerife-22-768x881.png" group-title="Basket", Movistar Deportes Spain
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-436.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ACB - Tenerife vs Valencia" tvg-name="21:15 ACB : Tenerife vs Valencia - 16/06/25" tvg-logo="https://freevectorlogo.net/wp-content/uploads/2012/12/tenerife-logo-vector-400x400.png" group-title="Basket", M+ #Vamos ES
+#EXTINF:-1 tvg-id="ACB - Tenerife vs Valencia" tvg-name="21:15 ACB : Tenerife vs Valencia - 16/06/25" tvg-logo="https://hablemosdeislas.com/wp-content/uploads/2018/06/tenerife-22-768x881.png" group-title="Basket", M+ #Vamos ES
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-521.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ACB - Tenerife vs Valencia" tvg-name="21:15 ACB : Tenerife vs Valencia - 16/06/25" tvg-logo="https://freevectorlogo.net/wp-content/uploads/2012/12/tenerife-logo-vector-400x400.png" group-title="Basket", DAZN Eleven 2 Portugal
+#EXTINF:-1 tvg-id="ACB - Tenerife vs Valencia" tvg-name="21:15 ACB : Tenerife vs Valencia - 16/06/25" tvg-logo="https://hablemosdeislas.com/wp-content/uploads/2018/06/tenerife-22-768x881.png" group-title="Basket", DAZN Eleven 2 Portugal
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-456.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ACB - Tenerife vs Valencia" tvg-name="21:15 ACB : Tenerife vs Valencia - 16/06/25" tvg-logo="https://freevectorlogo.net/wp-content/uploads/2012/12/tenerife-logo-vector-400x400.png" group-title="Basket", Arena 1 Premium Serbia
+#EXTINF:-1 tvg-id="ACB - Tenerife vs Valencia" tvg-name="21:15 ACB : Tenerife vs Valencia - 16/06/25" tvg-logo="https://hablemosdeislas.com/wp-content/uploads/2018/06/tenerife-22-768x881.png" group-title="Basket", Arena 1 Premium Serbia
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-134.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ACB - Tenerife vs Valencia" tvg-name="21:15 ACB : Tenerife vs Valencia - 16/06/25" tvg-logo="https://freevectorlogo.net/wp-content/uploads/2012/12/tenerife-logo-vector-400x400.png" group-title="Basket", Sportdigital+ DE
+#EXTINF:-1 tvg-id="ACB - Tenerife vs Valencia" tvg-name="21:15 ACB : Tenerife vs Valencia - 16/06/25" tvg-logo="https://hablemosdeislas.com/wp-content/uploads/2018/06/tenerife-22-768x881.png" group-title="Basket", Sportdigital+ DE
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-640.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ACB - Tenerife vs Valencia" tvg-name="21:15 ACB : Tenerife vs Valencia - 16/06/25" tvg-logo="https://freevectorlogo.net/wp-content/uploads/2012/12/tenerife-logo-vector-400x400.png" group-title="Basket", Cosmote Sport 4 Greece
+#EXTINF:-1 tvg-id="ACB - Tenerife vs Valencia" tvg-name="21:15 ACB : Tenerife vs Valencia - 16/06/25" tvg-logo="https://hablemosdeislas.com/wp-content/uploads/2018/06/tenerife-22-768x881.png" group-title="Basket", Cosmote Sport 4 Greece
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-625.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ACB - Tenerife vs Valencia" tvg-name="21:15 ACB : Tenerife vs Valencia - 16/06/25" tvg-logo="https://freevectorlogo.net/wp-content/uploads/2012/12/tenerife-logo-vector-400x400.png" group-title="Basket", Sport Klub 3 Croatia
+#EXTINF:-1 tvg-id="ACB - Tenerife vs Valencia" tvg-name="21:15 ACB : Tenerife vs Valencia - 16/06/25" tvg-logo="https://hablemosdeislas.com/wp-content/uploads/2018/06/tenerife-22-768x881.png" group-title="Basket", Sport Klub 3 Croatia
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="WNBA Game - Connecticut Sun vs Indiana Fever - WNBA Game - Connecticut Sun vs Indiana Fever" tvg-name="01:00 WNBA Game - Connecticut Sun vs Indiana Fever - 16/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/WNBA%20Game%20-%20Connecticut%20Sun_vs_Indiana%20Fever.png" group-title="Basket", NBA Tv USA
