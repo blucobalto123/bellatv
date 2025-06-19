@@ -1497,22 +1497,22 @@ https://link.proxy.mpd/proxy/hls/manifest.m3u8?d=https://di-kzbhv8pw.vo.lswcdn.n
 https://link.proxy.mpd/proxy/hls/manifest.m3u8?d=https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/silive24/chunklist.m3u8
 
 # Playlist generata da SkyStreaming
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Al Ahly" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Al Ahly - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Palmeiras_vs_Al%20Ahly.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Palmeiras vs Al Ahly" tvg-name="18:00 FIFA Club World Cup : Palmeiras vs Al Ahly - 19/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750326071_palmeiras-x-al-ahly.jpg" group-title="Calcio", SuperSport Premier League
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Inter Miami vs Porto" tvg-name="21:00 FIFA Club World Cup : Inter Miami vs Porto - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Inter%20Miami_vs_Porto.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Inter Miami vs Porto" tvg-name="21:00 FIFA Club World Cup : Inter Miami vs Porto - 19/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750326056_inter-miami-x-porto.jpg" group-title="Calcio", SuperSport Premier League
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="Ecuador Serie B - Cumbayá vs Leones del Norte" tvg-name="22:30 Ecuador Serie B : Cumbayá vs Leones del Norte - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Cumbay%C3%A1_vs_Leones%20del%20Norte.png" group-title="Calcio", Canal del Futbol
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-14.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - Seattle Sounders FC vs Atlético Madrid" tvg-name="00:00 FIFA Club World Cup : Seattle Sounders FC vs Atlético Madrid - 19/06/25" tvg-logo="https://ftsdlskits.com/wp-content/uploads/2019/01/Seattle-Sounders-FC-Logo.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - Seattle Sounders FC vs Atlético Madrid" tvg-name="00:00 FIFA Club World Cup : Seattle Sounders FC vs Atlético Madrid - 19/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750325978_seattle-sounders-fc-x-atltico-madrid.jpg" group-title="Calcio", SuperSport Premier League
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="Ecuador Serie B - Nueve de Octubre vs Guayaquil City" tvg-name="02:00 Ecuador Serie B : Nueve de Octubre vs Guayaquil City - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Nueve%20de%20Octubre_vs_Guayaquil%20City.png" group-title="Calcio", Canal del Futbol
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-14.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Botafogo" tvg-name="03:00 FIFA Club World Cup : PSG vs Botafogo - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/PSG_vs_Botafogo.png" group-title="Calcio", SuperSport Premier League
+#EXTINF:-1 tvg-id="FIFA Club World Cup - PSG vs Botafogo" tvg-name="03:00 FIFA Club World Cup : PSG vs Botafogo - 19/06/25" tvg-logo="https://guardacalcio.sbs/uploads/posts/2025-06/1750325877_psg-x-botafogo.jpg" group-title="Calcio", SuperSport Premier League
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - LONDON - Lehecka J. vs Diallo G." tvg-name="13:00 ATP - LONDON : Lehecka J. vs Diallo G. - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Lehecka%20J._vs_Diallo%20G..png" group-title="Tennis Atp - London", Tennis Stream 7
@@ -1521,13 +1521,13 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="ATP - LONDON - Fearnley J. vs Moutet C." tvg-name="14:30 ATP - LONDON : Fearnley J. vs Moutet C. - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Fearnley%20J._vs_Moutet%20C..png" group-title="Tennis Atp - London", Tennis Stream 7
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - LONDON - Alcaraz C. vs Munar J." tvg-name="16:00 ATP - LONDON : Alcaraz C. vs Munar J. - 19/06/25" tvg-logo="https://png.pngtree.com/png-vector/20221225/ourmid/pngtree-c-icon-metal-design-png-image_6536367.png" group-title="Tennis Atp - London", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - LONDON - Alcaraz C. vs Munar J." tvg-name="16:00 ATP - LONDON : Alcaraz C. vs Munar J. - 19/06/25" tvg-logo="https://alcarazgpo.com/wp-content/uploads/2023/03/ALCARAZ-INMOBILIARIA.png" group-title="Tennis Atp - London", Tennis Stream 7
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - LONDON - Opelka R. vs Rinderknech A." tvg-name="17:30 ATP - LONDON : Opelka R. vs Rinderknech A. - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Opelka%20R._vs_Rinderknech%20A..png" group-title="Tennis Atp - London", Tennis Stream 7
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - HALLE - Auger-Aliassime F. vs Khachanov K." tvg-name="11:30 ATP - HALLE : Auger-Aliassime F. vs Khachanov K. - 19/06/25" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/929746a0-24b4-4de3-bfb4-fc035337f53f/dej68ux-7482e54b-bea1-493c-bc9e-15f8d065edd3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkyOTc0NmEwLTI0YjQtNGRlMy1iZmI0LWZjMDM1MzM3ZjUzZlwvZGVqNjh1eC03NDgyZTU0Yi1iZWExLTQ5M2MtYmM5ZS0xNWY4ZDA2NWVkZDMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kD2d3ccSuW5f5xM5C4rVU-HbFHb1y8INOj-JPm8M8c4" group-title="Tennis Atp - Halle", Tennis Stream 10
+#EXTINF:-1 tvg-id="ATP - HALLE - Auger-Aliassime F. vs Khachanov K." tvg-name="11:30 ATP - HALLE : Auger-Aliassime F. vs Khachanov K. - 19/06/25" tvg-logo="https://lavercup.com/wp-content/uploads/2021/08/Auger-Aliassime_profile-2023-v2.png" group-title="Tennis Atp - Halle", Tennis Stream 10
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - HALLE - Shapovalov D. vs Cobolli F." tvg-name="12:00 ATP - HALLE : Shapovalov D. vs Cobolli F. - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Shapovalov%20D._vs_Cobolli%20F..png" group-title="Tennis Atp - Halle", Tennis Stream 11
@@ -1536,7 +1536,7 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="ATP - HALLE - Rublev A. vs Etcheverry T. M." tvg-name="13:00 ATP - HALLE : Rublev A. vs Etcheverry T. M. - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Rublev%20A._vs_Etcheverry%20T.%20M..png" group-title="Tennis Atp - Halle", Tennis Stream 10
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - HALLE - Marozsan F. vs Machac T." tvg-name="13:30 ATP - HALLE : Marozsan F. vs Machac T. - 19/06/25" tvg-logo="https://www.sofascore.com/static/images/flags/hu.png" group-title="Tennis Atp - Halle", Tennis Stream 11
+#EXTINF:-1 tvg-id="ATP - HALLE - Marozsan F. vs Machac T." tvg-name="13:30 ATP - HALLE : Marozsan F. vs Machac T. - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Marozsan%20F._vs_Machac%20T..png" group-title="Tennis Atp - Halle", Tennis Stream 11
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - HALLE - Auger-Aliassime/Shapovalov vs Bolelli/Vavassori" tvg-name="15:00 ATP - HALLE : Auger-Aliassime/Shapovalov vs Bolelli/Vavassori - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Vavassori.png" group-title="Tennis Atp - Halle", Tennis Stream 12
@@ -1545,7 +1545,7 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="ATP - HALLE - Sonego L. vs Zverev A." tvg-name="15:30 ATP - HALLE : Sonego L. vs Zverev A. - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Sonego%20L._vs_Zverev%20A..png" group-title="Tennis Atp - Halle", Tennis Stream 10
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - HALLE - Krawietz K./Puetz T. vs Khachanov K./Michelsen A." tvg-name="16:00 ATP - HALLE : Krawietz K./Puetz T. vs Khachanov K./Michelsen A. - 19/06/25" tvg-logo="https://images.justwatch.com/icon/299029901/s166/kevin-krawietz.png" group-title="Tennis Atp - Halle", Tennis Stream 11
+#EXTINF:-1 tvg-id="ATP - HALLE - Krawietz K./Puetz T. vs Khachanov K./Michelsen A." tvg-name="16:00 ATP - HALLE : Krawietz K./Puetz T. vs Khachanov K./Michelsen A. - 19/06/25" tvg-logo="https://www.protipster.pl/uploads/teams/359850.png" group-title="Tennis Atp - Halle", Tennis Stream 11
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - HALLE - Sinner J. vs Bublik A." tvg-name="17:00 ATP - HALLE : Sinner J. vs Bublik A. - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Sinner%20J._vs_Bublik%20A..png" group-title="Tennis Atp - Halle", Tennis Stream 10
@@ -1572,7 +1572,7 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="WTA - BERLIN - Frech M. vs Anisimova A." tvg-name="17:30 WTA - BERLIN : Frech M. vs Anisimova A. - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Frech%20M._vs_Anisimova%20A..png" group-title="Tennis Wta - Berlin", Tennis Stream 1
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Kessler M. vs Zhu L." tvg-name="12:00 WTA - NOTTINGHAM : Kessler M. vs Zhu L. - 19/06/25" tvg-logo="https://logodix.com/logo/2118474.png" group-title="Tennis Wta - Nottingham", Tennis Stream 5
+#EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Kessler M. vs Zhu L." tvg-name="12:00 WTA - NOTTINGHAM : Kessler M. vs Zhu L. - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Kessler%20M._vs_Zhu%20L..png" group-title="Tennis Wta - Nottingham", Tennis Stream 5
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="WTA - NOTTINGHAM - Linette M. vs Xu M." tvg-name="12:30 WTA - NOTTINGHAM : Linette M. vs Xu M. - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Linette%20M._vs_Xu%20M..png" group-title="Tennis Wta - Nottingham", Tennis Stream 4
@@ -1821,7 +1821,7 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="WNBA - Phoenix Mercury W vs New York Liberty W" tvg-name="02:00 WNBA : Phoenix Mercury W vs New York Liberty W - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Phoenix%20Mercury%20W_vs_New%20York%20Liberty%20W.png" group-title="Basket", FOX USA
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-54.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Golden State Valkyries W" tvg-name="04:00 WNBA : Indiana Fever W vs Golden State Valkyries W - 19/06/25" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Indiana_Fever_logo.svg/220px-Indiana_Fever_logo.svg.png" group-title="Basket", WNBA League Pass
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Golden State Valkyries W" tvg-name="04:00 WNBA : Indiana Fever W vs Golden State Valkyries W - 19/06/25" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Indiana_Fever_logo.svg/640px-Indiana_Fever_logo.svg.png" group-title="Basket", WNBA League Pass
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-5.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="NBL - Southland Sharks vs Bay Hawks" tvg-name="05:00 NBL : Southland Sharks vs Bay Hawks - 19/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Southland%20Sharks_vs_Bay%20Hawks.png" group-title="Basket", Sky Sport 2 NZ
