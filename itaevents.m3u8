@@ -38,7 +38,7 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="ATP - HALLE - Cobolli F. vs Zverev A." tvg-name="13:00 ATP - HALLE : Cobolli F. vs Zverev A. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Cobolli%20F._vs_Zverev%20A..png" group-title="Tennis Atp - Halle", Tennis Stream 10
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - HALLE - Bublik A. vs Machac T." tvg-name="15:00 ATP - HALLE : Bublik A. vs Machac T. - 20/06/25" tvg-logo="https://iconape.com/wp-content/files/fh/283781/png/283781.png" group-title="Tennis Atp - Halle", Tennis Stream 10
+#EXTINF:-1 tvg-id="ATP - HALLE - Bublik A. vs Machac T." tvg-name="15:00 ATP - HALLE : Bublik A. vs Machac T. - 20/06/25" tvg-logo="https://beturi.ro/wp-content/uploads/2021/02/aleksandr-bublik-logo-1.png" group-title="Tennis Atp - Halle", Tennis Stream 10
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - HALLE - Doumbia S./Reboul F. vs Cabral F./Miedler L." tvg-name="15:00 ATP - HALLE : Doumbia S./Reboul F. vs Cabral F./Miedler L. - 20/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Miedler%20L..png" group-title="Tennis Atp - Halle", Tennis Stream 11
@@ -362,19 +362,19 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="Eurobasket Women - Montenegro W vs Belgium W" tvg-name="20:15 Eurobasket Women : Montenegro W vs Belgium W - 20/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Montenegro%20W_vs_Belgium%20W.png" group-title="Basket", Sportklub 1 Croatia
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="LNB - Monaco vs Paris" tvg-name="20:10 LNB : Monaco vs Paris - 20/06/25" tvg-logo="https://logodetimes.com/times/monaco/logo-monaco-4096.png" group-title="Basket", DAZN 3 France
+#EXTINF:-1 tvg-id="LNB - Monaco vs Paris" tvg-name="20:10 LNB : Monaco vs Paris - 20/06/25" tvg-logo="https://logodetimes.com/times/as-monaco/as-monaco-4096.png" group-title="Basket", DAZN 3 France
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-76.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="LNB - Monaco vs Paris" tvg-name="20:10 LNB : Monaco vs Paris - 20/06/25" tvg-logo="https://logodetimes.com/times/monaco/logo-monaco-4096.png" group-title="Basket", Arena Premium 2 Serbia
+#EXTINF:-1 tvg-id="LNB - Monaco vs Paris" tvg-name="20:10 LNB : Monaco vs Paris - 20/06/25" tvg-logo="https://logodetimes.com/times/as-monaco/as-monaco-4096.png" group-title="Basket", Arena Premium 2 Serbia
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-135.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="LNB - Monaco vs Paris" tvg-name="20:10 LNB : Monaco vs Paris - 20/06/25" tvg-logo="https://logodetimes.com/times/monaco/logo-monaco-4096.png" group-title="Basket", Arena Sport 1 Serbia
+#EXTINF:-1 tvg-id="LNB - Monaco vs Paris" tvg-name="20:10 LNB : Monaco vs Paris - 20/06/25" tvg-logo="https://logodetimes.com/times/as-monaco/as-monaco-4096.png" group-title="Basket", Arena Sport 1 Serbia
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-429.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="LNB - Monaco vs Paris" tvg-name="20:10 LNB : Monaco vs Paris - 20/06/25" tvg-logo="https://logodetimes.com/times/monaco/logo-monaco-4096.png" group-title="Basket", Sport klub 6 Croatia
+#EXTINF:-1 tvg-id="LNB - Monaco vs Paris" tvg-name="20:10 LNB : Monaco vs Paris - 20/06/25" tvg-logo="https://logodetimes.com/times/as-monaco/as-monaco-4096.png" group-title="Basket", Sport klub 6 Croatia
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-26.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="LNB - Monaco vs Paris" tvg-name="20:10 LNB : Monaco vs Paris - 20/06/25" tvg-logo="https://logodetimes.com/times/monaco/logo-monaco-4096.png" group-title="Basket", Sport 5 Plus Israel
+#EXTINF:-1 tvg-id="LNB - Monaco vs Paris" tvg-name="20:10 LNB : Monaco vs Paris - 20/06/25" tvg-logo="https://logodetimes.com/times/as-monaco/as-monaco-4096.png" group-title="Basket", Sport 5 Plus Israel
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-145.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="Spain Liga ACB - Real Madrid vs Valencia Basket" tvg-name="21:15 Spain Liga ACB : Real Madrid vs Valencia Basket - 20/06/25" tvg-logo="https://logodetimes.com/times/real-madrid/logo-real-madrid-4096.png" group-title="Basket", Movistar Deportes Spain
@@ -518,10 +518,10 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="Nations League Women - France W vs Netherlands W" tvg-name="16:30 Nations League Women : France W vs Netherlands W - 20/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/France%20W_vs_Netherlands%20W.png" group-title="Pallavolo", Sport Klub 3 Croatia
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-103.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Golden League - Portugal vs Romania" tvg-name="17:00 Golden League : Portugal vs Romania - 20/06/25" tvg-logo="https://logodetimes.com/times/portugal/selecao-portuguesa-de-futebol-4096.png" group-title="Pallavolo", Sport TV1 Portugal
+#EXTINF:-1 tvg-id="Golden League - Portugal vs Romania" tvg-name="17:00 Golden League : Portugal vs Romania - 20/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Portugal_vs_Romania.png" group-title="Pallavolo", Sport TV1 Portugal
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-49.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Golden League - Portugal vs Romania" tvg-name="17:00 Golden League : Portugal vs Romania - 20/06/25" tvg-logo="https://logodetimes.com/times/portugal/selecao-portuguesa-de-futebol-4096.png" group-title="Pallavolo", Arena Sport 2 Croatia
+#EXTINF:-1 tvg-id="Golden League - Portugal vs Romania" tvg-name="17:00 Golden League : Portugal vs Romania - 20/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Portugal_vs_Romania.png" group-title="Pallavolo", Arena Sport 2 Croatia
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-433.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="Nations League Women - Canada W vs Brazil W" tvg-name="18:30 Nations League Women : Canada W vs Brazil W - 20/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Canada%20W_vs_Brazil%20W.png" group-title="Pallavolo", Polsat Sport Premium 6 Poland
@@ -569,7 +569,7 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="Canadian Premier League - HFX Wanderers vs Vancouver FC" tvg-name="20:00 Canadian Premier League : HFX Wanderers vs Vancouver FC - 21/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/HFX%20Wanderers_vs_Vancouver%20FC.png" group-title="Calcio", Fox Soccer Plus
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-756.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Brazil - Serie B - Avaí vs Athletico-PR" tvg-name="21:00 Brazil - Serie B : Avaí vs Athletico-PR - 21/06/25" tvg-logo="https://logodetimes.com/times/avai/logo-avai-2048.png" group-title="Calcio", ESPN Brazil
+#EXTINF:-1 tvg-id="Brazil - Serie B - Avaí vs Athletico-PR" tvg-name="21:00 Brazil - Serie B : Avaí vs Athletico-PR - 21/06/25" tvg-logo="https://www.footballkitarchive.com/static/logos/L457qiXRqWoGZV3/avai-1988-1998-logo.png" group-title="Calcio", ESPN Brazil
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-81.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="FIFA Club World Cup - Internazionale vs Urawa Reds" tvg-name="21:00 FIFA Club World Cup : Internazionale vs Urawa Reds - 21/06/25" tvg-logo="https://logodetimes.com/times/football-club-internazionale-milano/football-club-internazionale-milano-4096.png" group-title="Calcio", SuperSport Premier League
@@ -584,7 +584,7 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="FIFA Club World Cup - River Plate vs Monterrey" tvg-name="03:00 FIFA Club World Cup : River Plate vs Monterrey - 21/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/River%20Plate_vs_Monterrey.png" group-title="Calcio", SuperSport Premier League
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-414.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="ATP - LONDON - Lehecka J. vs Draper J." tvg-name="10:30 ATP - LONDON : Lehecka J. vs Draper J. - 21/06/25" tvg-logo="https://www.protipster.pt/uploads/teams/1218955.png" group-title="Tennis Atp - London", Tennis Stream 7
+#EXTINF:-1 tvg-id="ATP - LONDON - Lehecka J. vs Draper J." tvg-name="10:30 ATP - LONDON : Lehecka J. vs Draper J. - 21/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Lehecka%20J._vs_Draper%20J..png" group-title="Tennis Atp - London", Tennis Stream 7
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-576.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="ATP - LONDON - Alcaraz C. vs Bautista-Agut R." tvg-name="12:00 ATP - LONDON : Alcaraz C. vs Bautista-Agut R. - 21/06/25" tvg-logo="https://alcarazgpo.com/wp-content/uploads/2023/03/ALCARAZ-INMOBILIARIA.png" group-title="Tennis Atp - London", Tennis Stream 7
@@ -851,7 +851,7 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="IndyCar Series Season The XPEL Grand Prix at Road America Qualifying - IndyCar Series Season The XPEL Grand Prix at Road America Qualifying" tvg-name="20:30 IndyCar Series Season The XPEL Grand Prix at Road America Qualifying - 21/06/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Sky Sport F1 DE
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-274.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="NBL - Wellington Saints vs Tauranga Whai" tvg-name="09:30 NBL : Wellington Saints vs Tauranga Whai - 21/06/25" tvg-logo="https://images.squarespace-cdn.com/content/v1/59b99a8a80bd5effe1ed62de/1584752968426-DPJK739FRBEA9XSUHQGH/06-TWFC.png" group-title="Basket", Sky Sport 6 NZ
+#EXTINF:-1 tvg-id="NBL - Wellington Saints vs Tauranga Whai" tvg-name="09:30 NBL : Wellington Saints vs Tauranga Whai - 21/06/25" tvg-logo="https://saintsmembership.com.au/images/brand/STK-150-Crest-White-Wreath.png" group-title="Basket", Sky Sport 6 NZ
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-593.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="LITHUANIAN LEAGUE - Zalgiris vs Rytas" tvg-name="16:00 LITHUANIAN LEAGUE : Zalgiris vs Rytas - 21/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Zalgiris_vs_Rytas.png" group-title="Basket", Arena Sport 6 Serbia
@@ -893,28 +893,28 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="Eurobasket Women - Slovenia W vs Serbia W" tvg-name="17:30 Eurobasket Women : Slovenia W vs Serbia W - 21/06/25" tvg-logo="https://images.fotmob.com/image_resources/logo/teamlogo/391941.png" group-title="Basket", Sport Klub 1 Croatia
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-101.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Phoenix Mercury W" tvg-name="19:00 WNBA : Chicago Sky W vs Phoenix Mercury W - 21/06/25" tvg-logo="https://sportslogohistory.com/wp-content/uploads/2018/04/chicago_sky_2006-pres.png" group-title="Basket", TNT Sports 4 UK
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Phoenix Mercury W" tvg-name="19:00 WNBA : Chicago Sky W vs Phoenix Mercury W - 21/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Chicago%20Sky%20W_vs_Phoenix%20Mercury%20W.png" group-title="Basket", TNT Sports 4 UK
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-34.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Phoenix Mercury W" tvg-name="19:00 WNBA : Chicago Sky W vs Phoenix Mercury W - 21/06/25" tvg-logo="https://sportslogohistory.com/wp-content/uploads/2018/04/chicago_sky_2006-pres.png" group-title="Basket", ABC USA
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Phoenix Mercury W" tvg-name="19:00 WNBA : Chicago Sky W vs Phoenix Mercury W - 21/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Chicago%20Sky%20W_vs_Phoenix%20Mercury%20W.png" group-title="Basket", ABC USA
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-51.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Phoenix Mercury W" tvg-name="19:00 WNBA : Chicago Sky W vs Phoenix Mercury W - 21/06/25" tvg-logo="https://sportslogohistory.com/wp-content/uploads/2018/04/chicago_sky_2006-pres.png" group-title="Basket", ABC NY USA
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Phoenix Mercury W" tvg-name="19:00 WNBA : Chicago Sky W vs Phoenix Mercury W - 21/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Chicago%20Sky%20W_vs_Phoenix%20Mercury%20W.png" group-title="Basket", ABC NY USA
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-766.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Phoenix Mercury W" tvg-name="19:00 WNBA : Chicago Sky W vs Phoenix Mercury W - 21/06/25" tvg-logo="https://sportslogohistory.com/wp-content/uploads/2018/04/chicago_sky_2006-pres.png" group-title="Basket", TSN5
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Phoenix Mercury W" tvg-name="19:00 WNBA : Chicago Sky W vs Phoenix Mercury W - 21/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Chicago%20Sky%20W_vs_Phoenix%20Mercury%20W.png" group-title="Basket", TSN5
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-115.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Phoenix Mercury W" tvg-name="19:00 WNBA : Chicago Sky W vs Phoenix Mercury W - 21/06/25" tvg-logo="https://sportslogohistory.com/wp-content/uploads/2018/04/chicago_sky_2006-pres.png" group-title="Basket", TSN1
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Phoenix Mercury W" tvg-name="19:00 WNBA : Chicago Sky W vs Phoenix Mercury W - 21/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Chicago%20Sky%20W_vs_Phoenix%20Mercury%20W.png" group-title="Basket", TSN1
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-111.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Phoenix Mercury W" tvg-name="19:00 WNBA : Chicago Sky W vs Phoenix Mercury W - 21/06/25" tvg-logo="https://sportslogohistory.com/wp-content/uploads/2018/04/chicago_sky_2006-pres.png" group-title="Basket", Cosmote Sport 4 Greece
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Phoenix Mercury W" tvg-name="19:00 WNBA : Chicago Sky W vs Phoenix Mercury W - 21/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Chicago%20Sky%20W_vs_Phoenix%20Mercury%20W.png" group-title="Basket", Cosmote Sport 4 Greece
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-625.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Phoenix Mercury W" tvg-name="19:00 WNBA : Chicago Sky W vs Phoenix Mercury W - 21/06/25" tvg-logo="https://sportslogohistory.com/wp-content/uploads/2018/04/chicago_sky_2006-pres.png" group-title="Basket", TV4 Sportkanalen
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Phoenix Mercury W" tvg-name="19:00 WNBA : Chicago Sky W vs Phoenix Mercury W - 21/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Chicago%20Sky%20W_vs_Phoenix%20Mercury%20W.png" group-title="Basket", TV4 Sportkanalen
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-707.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Phoenix Mercury W" tvg-name="19:00 WNBA : Chicago Sky W vs Phoenix Mercury W - 21/06/25" tvg-logo="https://sportslogohistory.com/wp-content/uploads/2018/04/chicago_sky_2006-pres.png" group-title="Basket", ESPN5 Brazil
+#EXTINF:-1 tvg-id="WNBA - Chicago Sky W vs Phoenix Mercury W" tvg-name="19:00 WNBA : Chicago Sky W vs Phoenix Mercury W - 21/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Chicago%20Sky%20W_vs_Phoenix%20Mercury%20W.png" group-title="Basket", ESPN5 Brazil
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-85.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="Eurobasket Women - Greece W vs Turkey W" tvg-name="19:30 Eurobasket Women : Greece W vs Turkey W - 21/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Greece%20W_vs_Turkey%20W.png" group-title="Basket", ERT 2 Greece
@@ -1076,10 +1076,10 @@ https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/strea
 #EXTINF:-1 tvg-id="Golden League - Latvia vs Slovakia" tvg-name="17:00 Golden League : Latvia vs Slovakia - 21/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Latvia_vs_Slovakia.png" group-title="Pallavolo", JOJ Sport Slovakia HD
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-22.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Golden League - Czech Republic vs Portugal" tvg-name="17:00 Golden League : Czech Republic vs Portugal - 21/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/czech-republic-national-emblem-logo-png-transparent.png" group-title="Pallavolo", CT Sport Czech HD
+#EXTINF:-1 tvg-id="Golden League - Czech Republic vs Portugal" tvg-name="17:00 Golden League : Czech Republic vs Portugal - 21/06/25" tvg-logo="https://www.iconarchive.com/download/i109116/wikipedia/flags/CZ-Czech-Republic-Flag.1024.png" group-title="Pallavolo", CT Sport Czech HD
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-4.php&redirect_stream=true&api_password=PASSWORD
 
-#EXTINF:-1 tvg-id="Golden League - Czech Republic vs Portugal" tvg-name="17:00 Golden League : Czech Republic vs Portugal - 21/06/25" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/czech-republic-national-emblem-logo-png-transparent.png" group-title="Pallavolo", Sport TV2 Portugal
+#EXTINF:-1 tvg-id="Golden League - Czech Republic vs Portugal" tvg-name="17:00 Golden League : Czech Republic vs Portugal - 21/06/25" tvg-logo="https://www.iconarchive.com/download/i109116/wikipedia/flags/CZ-Czech-Republic-Flag.1024.png" group-title="Pallavolo", Sport TV2 Portugal
 https://poppy89-tvproxy.hf.space/proxy/m3u?url=https://daddylive.dad/embed/stream-74.php&redirect_stream=true&api_password=PASSWORD
 
 #EXTINF:-1 tvg-id="Golden League - Montenegro vs Israel" tvg-name="20:00 Golden League : Montenegro vs Israel - 21/06/25" tvg-logo="https://raw.githubusercontent.com/blucobalto123/OMGTV/main/logos/Montenegro_vs_Israel.png" group-title="Pallavolo", Arena Sport 3 Serbia
